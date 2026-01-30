@@ -1,0 +1,6 @@
+ipykernel
+pandas
+matplotlib
+numpy
+pandas
+opencv-python==4.11.0.86
